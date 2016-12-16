@@ -9,13 +9,13 @@ a good heuristic and that the initial centroids are not taken randomly. The Sear
 relevance in terms of overlap scores can be obtained.
 
 ##Components
-+TF-IDF Weighing
-+Document to Text Conversion : 
+* TF-IDF Weighing
+* Document to Text Conversion : 
 API employed – Apache TIKA 1.1 
-+Tokenization: 
+* Tokenization: 
 Penn Treebank Tokenizer (Stanford Parser)
 API employed – Google Guava API
-+Inverted Index Construction
+* Inverted Index Construction
 Database Employed – Oracle Database 10g Express Edition
 
 
